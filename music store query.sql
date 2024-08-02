@@ -1,9 +1,9 @@
 select * from album
 select * from invoice;
 select * from artist;
-
 select * from employee;
 
+--Question Set 1 -Easy
 -- Q1: Who is the senior most employee based on job title?
 SELECT * FROM employee
 order by levels desc
